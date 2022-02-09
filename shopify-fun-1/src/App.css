@@ -1,0 +1,44 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'PT Sans', sans-serif;
+  }
+  
+  .home,
+  .services,
+  .products,
+  .sign-up {
+    display: flex;
+    height: 90vh;
+    align-items: center;
+    justify-content: center;
+    font-size: 3rem;
+  }
+  
+  .services {
+    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/0575c881-70f4-473d-85ea-695801011239.jpeg.webp');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  .products {
+    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/Baguette-Bags_0050_18-Christian-Dior-2001-pre-owned-Trotter-Saddle-bag.jpg');
+    background-position: center;
+    background-size: fill;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
+  
+  .sign-up {
+    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/Birkin 30 Black Tadelakt Palladium Hardware.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-size: 100px;
+  }
