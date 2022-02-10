@@ -8,6 +8,7 @@
   .home,
   .testimonials,
   .products,
+  .contact-us
   .sign-up {
     display: flex;
     height: 90vh;
@@ -16,7 +17,7 @@
     font-size: 3rem;
   }
   
-  .services {
+  .testimonials {
     background-image: url('/public/images/handbags/images/0575c881-70f4-473d-85ea-695801011239.jpeg.webp');
     background-position: center;
     background-size: cover;
