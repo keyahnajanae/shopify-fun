@@ -17,7 +17,7 @@
   }
   
   .services {
-    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/0575c881-70f4-473d-85ea-695801011239.jpeg.webp');
+    background-image: url('/public/images/handbags/images/0575c881-70f4-473d-85ea-695801011239.jpeg.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -26,7 +26,7 @@
   }
   
   .products {
-    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/Baguette-Bags_0050_18-Christian-Dior-2001-pre-owned-Trotter-Saddle-bag.jpg');
+    background-image: url('/public/images/handbags/images/Baguette-Bags_0050_18-Christian-Dior-2001-pre-owned-Trotter-Saddle-bag.jpg');
     background-position: center;
     background-size: fill;
     background-repeat: no-repeat;
@@ -35,7 +35,7 @@
   }
   
   .sign-up {
-    background-image: url('/Users/ziggyredds/sei/react-projects/shopify-fun/shopify-fun-1/public/images/handbags/images/Birkin 30 Black Tadelakt Palladium Hardware.jpg');
+    background-image: url('/public/images/handbags/images/GG\ Marmont\ matelasse\ mini\ bag\ 1600.webp');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
